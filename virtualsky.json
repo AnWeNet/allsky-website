@@ -1,6 +1,6 @@
 {
 	"id":"starmap",
-	"projection":"fisheye",
+	"projection":"ortho",
 	"width": 960,
 	"height": 960,
 	"constellations": true,
@@ -12,6 +12,7 @@
 	"constellationlabels": true,
 	"sky_gradient": false,
 	"gradient": false,
+	"showgalaxy": true,
 	"transparent": true,
-	"objects": "M42;M45;M31;M51;M81;M106"
+	"objects": "M42;M45;M31;M51;M81;M101;M106"
 }
